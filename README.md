@@ -1,6 +1,5 @@
 # Myntra Fashion Data Analysis and Recommendation System
 
-**Team:** 3  
 **Project:** Analyzing Myntra Fashion Trends & Building a Recommendation System  
 
 ## Overview
