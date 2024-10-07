@@ -16,7 +16,7 @@ The dataset used is from Myntra, containing 15,000 rows and 27 columns, covering
 
 ## Project Structure
 
-### Document 1: Exploratory Data Analysis (EDA)
+### File 1: Exploratory Data Analysis (EDA)
 - **Discount Calculation**
 - **Category-wise Product Distribution by Gender**
 - **Top 10 Popular Brands**
@@ -27,7 +27,7 @@ The dataset used is from Myntra, containing 15,000 rows and 27 columns, covering
 - **Top Selling and Least Sold Products**
 - **Most Expensive Items**
 
-### Document 2: Recommendation System
+### File 2: Recommendation System
 - **Installations and Setup**
 - **Data Preprocessing**
 - **Popularity-Based Filtering**
